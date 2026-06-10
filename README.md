@@ -1,5 +1,5 @@
 # PhotoPad
-PhotoPad is a 12 key macropad with a rotary encoder and an OLED Display, designed to be the best helping hand possible for photography and every other dayly-life computer based task.
+PhotoPad is a 12 key macropad with a rotary encoder and an OLED Display, designed to be the best helping hand possible for photography and every other daily-life computer based task.
 
 It's supposed to help speeding up the Lightroom Classic workflow, aswell as basic navigation.
 The firmware isn't final, because I don't know the keylayout that fits me best, yet.
