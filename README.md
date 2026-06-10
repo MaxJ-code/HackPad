@@ -19,6 +19,7 @@ The firmware isn't final, because I don't know the keylayout that fits me best, 
 
 # Case
 It features two separate parts with a support for the screen, the cutout for the USB-C and standoffs for the PCB.
+
 <img width="912" height="665" alt="Case_sideview" src="https://github.com/user-attachments/assets/a790c991-4508-4cac-992b-97f9fa7beaad" />
 <img width="876" height="466" alt="Case_backview" src="https://github.com/user-attachments/assets/9821deda-6de4-42ab-927a-9f5bd2ef5277" />
 
