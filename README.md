@@ -29,14 +29,14 @@ The firmware is KMK based and easy to understand.
 
 
 # BOM
-1x Case (2 3D-printed parts)
-1x XIAO RP2040
-11x Cherry MX Switches
-1x EC11 Rotary Encoder
-1x 0.91" 128x32 OLED Display
-12x 1N4148 DO-35 Diodes.
-4x M3x5x4 Heatset inserts
-4X M3x12mm SHCS Bolts
+- 1x Case (2 3D-printed parts)
+- 1x XIAO RP2040
+- 11x Cherry MX Switches
+- 1x EC11 Rotary Encoder
+- 1x 0.91" 128x32 OLED Display
+- 12x 1N4148 DO-35 Diodes.
+- 4x M3x5x4 Heatset inserts
+- 4X M3x12mm SHCS Bolts
 
 
 
